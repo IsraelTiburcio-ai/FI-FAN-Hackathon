@@ -1,3 +1,38 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1692e2a8-3fad-44d6-a65d-6ea7ce706de3" alt="FI-FAN Logo" width="240"/>
+</p>
+
+<h1 align="center">🌍 FI-FAN</h1>
+<p align="center">
+  <strong>Tu mejor guía para vivir el Mundial 2026</strong>  
+  <br>Una app iOS impulsada por <strong>Apple Intelligence</strong> que conecta a los fanáticos del fútbol con experiencias locales, culturales y turísticas.  
+</p>
+
+---
+
+## 🧭 Introducción
+
+**FI-FAN** es una aplicación desarrollada durante el **Hackathon Nacional CDMX 2025** organizado por **Apple** y **Enactus México**.  
+Su objetivo es mejorar la experiencia de los visitantes del **Mundial 2026**, integrando información turística, cultural y deportiva en una sola plataforma inteligente.
+
+A través de **Apple Intelligence**, **Foundation Models locales** y tecnologías nativas como **SwiftUI**, **MapKit** y **Core Location**, FI-FAN permite:
+- Planificar tu día con IA.
+- Recibir sugerencias basadas en tu ubicación y presupuesto.
+- Consultar partidos, noticias y eventos cercanos en tiempo real.
+
+---
+
+## 👥 Equipo de desarrollo
+
+| Integrante | Rol |
+|-------------|------|
+| **Cristian Yair Gómez Herrera** | 👨‍💻 Programador |
+| **Israel Tiburcio Suchil** | 👨‍💻 Programador |
+| **Noemí López Ávila** | 🗣️ Storyteller / Comunicóloga |
+| **Mariana Álvarez Benítez** | 🎨 Diseñadora UX/UI |
+
+---
+
 ## 📸 Capturas de pantalla
 
 ### 🧠 Plan IA · ⚽ Partidos · 📊 Fase de grupos
@@ -21,3 +56,47 @@ Interacción con el asistente: el usuario describe su presupuesto y horario, y F
 | Escribiendo la solicitud | Itinerario generado |
 |:--:|:--:|
 | <img width="260" alt="Chat escribiendo" src="https://github.com/user-attachments/assets/448c9483-9e24-40c4-8c45-c361ce013245" /> | <img width="260" alt="Chat itinerario" src="https://github.com/user-attachments/assets/84d18bc0-80ea-4fff-b6bf-8dba7a3e5f81" /> |
+
+---
+
+## ✨ Características principales
+
+- 🧭 **Explora la ciudad sede** — encuentra restaurantes, museos y eventos cercanos al estadio.  
+- ⚽ **Fase de grupos y partidos** — consulta horarios, países, sedes y resultados.  
+- 🤖 **Asistente IA local** — genera planes y recomendaciones usando **Foundation Models on-device** de **Apple Intelligence**, sin conexión a internet.  
+- 📍 **Recomendaciones por ubicación** — gracias a **Core Location** y **MapKit**, FI-FAN sugiere planes según dónde te encuentres.  
+- 🔄 **Interfaz fluida y reactiva** — construida con **SwiftUI** y **Combine** para un rendimiento nativo y dinámico.  
+- 🌐 **Diseño multilingüe e inclusivo** — pensado para turistas de México 🇲🇽, Estados Unidos 🇺🇸 y Canadá 🇨🇦.
+
+---
+
+## 🧱 Tecnologías utilizadas
+
+| Framework / Tecnología | Uso principal |
+|--------------------------|----------------|
+| **SwiftUI** | Interfaz declarativa y moderna para iOS |
+| **Apple Intelligence (Foundation Models)** | IA local contextual y privada |
+| **Foundation** | Manejo de datos, estructuras y fechas |
+| **Core Location** | Geolocalización y contexto espacial |
+| **Combine** | Gestión reactiva de estados y datos |
+| **MapKit** | Mapa interactivo con puntos de interés dinámicos |
+
+---
+
+## 📱 Requisitos de compatibilidad
+
+FI-FAN está diseñada exclusivamente para dispositivos con:
+
+- **iOS 26 o posterior**  
+- **Apple Intelligence habilitado**  
+- **Chip A17 Pro o superior** (recomendado para procesamiento local de IA)  
+
+> ⚠️ Algunas funciones de inteligencia local pueden no estar disponibles en modelos sin soporte completo para Apple Intelligence.
+
+---
+
+## 🚀 Instalación y ejecución
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/IsraelTiburcio-ai/FI-FAN.git
