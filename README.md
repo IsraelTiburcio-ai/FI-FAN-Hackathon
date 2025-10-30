@@ -5,15 +5,19 @@
 <h1 align="center">🌍 FI-FAN</h1>
 <p align="center">
   <strong>Tu mejor guía para vivir el Mundial 2026</strong>  
-  <br>Una app iOS impulsada por <strong>Apple Intelligence</strong> que conecta a los fanáticos del fútbol con experiencias locales, culturales y turísticas.  
+  <br>Desarrollada durante el <strong>Hackathon del iOS Development Lab – FES Acatlán (2025-2)</strong>,  
+  obteniendo el <strong>1er lugar en la categoría de Inteligencia Artificial</strong>.  
 </p>
 
 ---
 
 ## 🧭 Introducción
 
-**FI-FAN** es una aplicación desarrollada durante el **Hackathon Nacional CDMX 2025** organizado por **Apple** y **Enactus México**.  
-Su objetivo es mejorar la experiencia de los visitantes del **Mundial 2026**, integrando información turística, cultural y deportiva en una sola plataforma inteligente.
+**FI-FAN** es una aplicación iOS que busca mejorar la experiencia de los visitantes del **Mundial 2026**, conectando la pasión del fútbol con la cultura y el turismo local.  
+La app integra **Apple Intelligence**, **Foundation Models locales** y frameworks nativos de Apple para crear un acompañante inteligente que sugiere rutas, lugares, actividades y partidos según el contexto del usuario.
+
+Su desarrollo se llevó a cabo en el marco del **Hackathon 2025-2 del iOS Development Lab (UNAM – FES Acatlán)**, donde fue reconocida con el **primer lugar en la categoría de Inteligencia Artificial**, destacando por su integración de IA local, experiencia de usuario y propuesta social.
+
 
 A través de **Apple Intelligence**, **Foundation Models locales** y tecnologías nativas como **SwiftUI**, **MapKit** y **Core Location**, FI-FAN permite:
 - Planificar tu día con IA.
