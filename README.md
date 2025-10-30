@@ -35,7 +35,7 @@ La app ayuda a los visitantes internacionales a descubrir **qué hacer antes y d
 
 FI-FAN está diseñada exclusivamente para dispositivos con:
 
-- **iOS 18 o posterior**  
+- **iOS 26 o posterior**  
 - **Apple Intelligence habilitado**  
 - **Chip A17 Pro o superior** (recomendado para procesamiento local de IA)  
 
