@@ -1,0 +1,36 @@
+[
+  {
+    "id": "mx-001",
+    "dateISO": "2026-06-12T18:00:00Z",
+    "city": "Ciudad de México",
+    "venueName": "Estadio Azteca",
+    "teams": ["México", "Equipo A"],
+    "stage": "Inaugural",
+    "favorite": true
+  },
+  {
+    "id": "mx-002",
+    "dateISO": "2026-06-15T20:00:00Z",
+    "city": "Guadalajara",
+    "venueName": "Estadio Akron",
+    "teams": ["Equipo B", "Equipo C"],
+    "stage": "Fase de grupos"
+  },
+  {
+    "id": "mx-003",
+    "dateISO": "2026-06-18T19:00:00Z",
+    "city": "Monterrey",
+    "venueName": "Estadio BBVA",
+    "teams": ["Equipo D", "Equipo E"],
+    "stage": "Fase de grupos"
+  },
+  {
+    "id": "us-104",
+    "dateISO": "2026-06-13T20:00:00Z",
+    "city": "Dallas",
+    "venueName": "AT&T Stadium",
+    "teams": ["Equipo F", "Equipo G"],
+    "stage": "Fase de grupos"
+  }
+]
+
