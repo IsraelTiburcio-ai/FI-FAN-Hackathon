@@ -1,28 +1,33 @@
-# 🌍 FI-FAN<img width="1410" height="711" alt="Captura de pantalla 2025-10-28 a la(s) 1 30 19 p m" src="https://github.com/user-attachments/assets/1692e2a8-3fad-44d6-a65d-6ea7ce706de3" />
+# 🌍 FI-FAN
+<img width="600" alt="Captura de pantalla de FI-FAN" src="https://github.com/user-attachments/assets/1692e2a8-3fad-44d6-a65d-6ea7ce706de3" />
+
+---
 
 ## 📸 Capturas de pantalla
 
 ### 🧠 Plan IA  
 Vista principal de **FI-FAN**, mostrando el acceso al asistente inteligente impulsado por **Foundation Models** de **Apple Intelligence**.  
 El usuario puede planificar su día con IA, obtener recomendaciones personalizadas y ver el próximo partido destacado.
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-10-29 at 19 28 04" src="https://github.com/user-attachments/assets/4e0f0447-4938-493a-8b34-61392864ee5f" />
 
-## 🗺️ Explora y descubre  
+<img width="320" alt="Plan IA FI-FAN" src="https://github.com/user-attachments/assets/4e0f0447-4938-493a-8b34-61392864ee5f" />
+
+---
+
+### 🗺️ Explora y descubre  
 Sección de inicio con recomendaciones turísticas, lugares cercanos, museos, bares, casas de cambio y hoteles recomendados.  
 Incluye acceso directo a **Maps** y **Uber** para facilitar la movilidad antes o después del partido.
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-10-29 at 19 32 41" src="https://github.com/user-attachments/assets/766897ca-1059-4907-ac8f-736bf06286f4" />
 
+<img width="320" alt="Explora y descubre FI-FAN" src="https://github.com/user-attachments/assets/766897ca-1059-4907-ac8f-736bf06286f4" />
 
-**FI-FAN** es una aplicación iOS desarrollada para el **Mundial 2026**, pensada como el compañero de viaje inteligente que conecta a los fanáticos del fútbol con experiencias locales, culturales y turísticas.  
+---
 
-### 💬 Asistente IA — Chat e Itinerario
+### 💬 Asistente IA — Chat e Itinerario  
 Interacción con el asistente: el usuario describe su presupuesto y horario, y FI-FAN genera un **itinerario personalizado** en tiempo real usando Foundation Models locales.
 
 | Escribiendo la solicitud | Itinerario generado |
-|---|---|
-| <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-10-29 at 19 34 27" src="https://github.com/user-attachments/assets/448c9483-9e24-40c4-8c45-c361ce013245" />
-| <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-10-29 at 19 34 40" src="https://github.com/user-attachments/assets/84d18bc0-80ea-4fff-b6bf-8dba7a3e5f81" />
-|
+|:--:|:--:|
+| <img width="300" alt="Chat FI-FAN escribiendo" src="https://github.com/user-attachments/assets/448c9483-9e24-40c4-8c45-c361ce013245" /> | <img width="300" alt="Chat FI-FAN itinerario" src="https://github.com/user-attachments/assets/84d18bc0-80ea-4fff-b6bf-8dba7a3e5f81" /> |
+
 
 La app ayuda a los visitantes internacionales a descubrir **qué hacer antes y después del partido**, ofreciendo rutas, recomendaciones y planes personalizados según su ubicación, horario y presupuesto — todo impulsado por **IA local con Foundation Models de Apple Intelligence** ⚽🧠.
 
