@@ -1,8 +1,18 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1692e2a8-3fad-44d6-a65d-6ea7ce706de3" alt="FI-FAN Logo" width="240"/>
+  <img 
+    src="https://github.com/user-attachments/assets/1692e2a8-3fad-44d6-a65d-6ea7ce706de3" 
+    alt="FI-FAN Logo" 
+    width="300"
+    style="
+      border-radius:40px;
+      box-shadow:0 4px 15px rgba(0,0,0,0.25);
+      transition:transform 0.3s ease;
+    "
+    onmouseover="this.style.transform='scale(1.05)';"
+    onmouseout="this.style.transform='scale(1)';"
+  />
 </p>
 
-<h1 align="center">🌍 FI-FAN</h1>
 <p align="center">
   <strong>Tu mejor guía para vivir el Mundial 2026</strong>  
   <br>Desarrollada durante el <strong>Hackathon del iOS Development Lab – FES Acatlán (2025-2)</strong>,  
